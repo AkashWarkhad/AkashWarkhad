@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on .NET, ASP.NET Core, React, full-stack applications, and distributed systems.
 - 🤔 I’m looking for help with advanced system design patterns, cloud-native best practices, and modern frontend architecture.
 - 💬 Ask me about C#, ASP.NET Core, REST APIs, Entity Framework, HTML, CSS, JavaScript, and React.
-- 📫 How to reach me: Connect with me on LinkedIn or via email.
+- 📫 How to reach me: Connect with me on LinkedIn(https://www.linkedin.com/in/akash-warkhad/) or via email(akashwarkhad151@gmail.com).
 - ⚡ Fun fact: I enjoy optimizing performance, building clean architectures, and creating smooth user experiences.
